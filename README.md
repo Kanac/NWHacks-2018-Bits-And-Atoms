@@ -23,4 +23,4 @@ The work consists of two applications:
 
 Using the user-facing application, we can use our hands to touch a button in the virtual space to turn on an LED and a buzzer in a remote network. We also receive a textual alert message within the virtual space when a motion is detected on the IoT device. We can also see a (rather slow) video stream coming from the IoT device. The work is fit for remote areas and spaceship projects where actual accessing to devices is hard and emulation by VR could be possible.
 
-<img src="https://raw.githubusercontent.com/Kanac/NWHacks-2018-Bits-And-Atoms/master/screenshot.png" alt="Screenshot" width="427" height="240" border="10"/>
+<img src="https://raw.githubusercontent.com/Kanac/NWHacks-2018-Bits-And-Atoms/master/vr.png" alt="Screenshot" width="427" height="240" border="10"/>
